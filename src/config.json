@@ -1,6 +1,6 @@
 {
     "app_id": "com.moodle.moodlemobile",
-    "appname": "Moodle Mobile",
+    "appname": "Oficial App Mobile",
     "desktopappname": "Moodle Desktop",
     "versioncode": 3710,
     "versionname": "3.7.1",
@@ -58,12 +58,12 @@
     "wsextservice": "local_mobile",
     "demo_sites": {
         "student": {
-            "url": "https:\/\/school.moodledemo.net",
+            "url": "https://ava.venderdetudo.com/",
             "username": "student",
             "password": "moodle"
         },
         "teacher": {
-            "url": "https:\/\/school.moodledemo.net",
+            "url": "https://ava.venderdetudo.com/",
             "username": "teacher",
             "password": "moodle"
         }
@@ -74,8 +74,8 @@
         93.75
     ],
     "customurlscheme": "moodlemobile",
-    "siteurl": "",
-    "sitename": "",
+    "siteurl": "https://ava.venderdetudo.com/",
+    "sitename": "ava.venderdetudo.com",
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
